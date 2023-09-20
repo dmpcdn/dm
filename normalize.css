@@ -12,6 +12,11 @@
     }
 }
 
+
+body {
+overflow-x: hidden !important;
+}
+
 .modal-wrapper {
     top: auto !important;
 }
@@ -277,6 +282,7 @@ textarea {
     max-width: 360px !important;
     border-radius: 30px;
     margin-top: 20px;
+    width: 90%;
 }
 
 #cd_timer {
